@@ -1,0 +1,8 @@
+#cardHolder {
+    max-width: 80%;
+    border: 3px solid green;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}

@@ -5,7 +5,7 @@ const Header = ({handlePageChange, currentPage}) => {
     return(
         <header>
             <h1>
-                My Portfolio
+                Kallie O'Gara
             </h1>
             <NavTabs handlePageChange={handlePageChange} currentPage = {currentPage} />
         </header>

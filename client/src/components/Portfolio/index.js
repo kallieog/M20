@@ -1,5 +1,6 @@
 import React from "react"
-import marvelPic from "../../assets/images/download-4.jpg"
+import marvelPic from "../../assets/images/marvelite.png"
+import powerPic from "../../assets/images/powertrip.png"
 import ProjectCard from "../ProjectCard"
 import "./style.css"
 
@@ -17,8 +18,8 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            title: "Project 1",
-            image: marvelPic,
+            title: "Project 2",
+            image: powerPic,
             githubLink: "",
             websiteLink: "",
             description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
